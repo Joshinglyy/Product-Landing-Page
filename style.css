@@ -1,0 +1,34 @@
+
+body {
+background-color: rgb(250, 230, 205);
+}
+#header {
+    border: 5px solid black;
+    width: 90%;
+    margin: auto;
+    height: 100%;
+    overflow: auto;
+}
+#main-doc {
+    background-color: cadetblue;
+    width: 70%;
+    height: 800px;
+    overflow: hidden;
+    margin: 50px auto;
+}
+#footer {
+    border: 2px solid gray;
+    height: 60px;
+    width: 70%;
+    margin: auto;
+}
+#navbar {
+    float: right;
+    background-color: violet;
+    height: 100%;
+    width: 30%;
+    display: inline;
+}
+#header-img {
+    width: 20%;
+}
